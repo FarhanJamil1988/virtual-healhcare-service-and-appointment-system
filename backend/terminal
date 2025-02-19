@@ -1,0 +1,3 @@
+mkdir healthcare-appointment-api
+cd healthcare-appointment-api
+npm init -y 
